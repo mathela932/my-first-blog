@@ -1,8 +1,7 @@
 h2 a,
 h1 a {
   color: #8A3DA8;
-  font-family: 'Lobster';
-}
+  }
 
 body {
   padding-left: 15px;
@@ -25,7 +24,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Bree Serif', serif;
 }
 
 .date {
